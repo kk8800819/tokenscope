@@ -1,0 +1,10 @@
+# 仮想環境・キャッシュ
+.venv/
+__pycache__/
+
+# 計測の結果(プロンプトや作業フォルダーのパスが入る)
+measurement-output/
+
+# 作業させるフォルダーと、取得した FastAPI のソース
+myapp/
+_fastapi/
